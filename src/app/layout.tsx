@@ -19,8 +19,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Elegant Flora Boutique",
-  description: "Beautiful AI-powered website creation platform",
+  title: "Cape Flora Designs | Landscape Design Cape Town",
+  description: "Transform your Cape Town outdoor space into a private paradise. Expert landscape design with indigenous plants and sustainable solutions for residential properties.",
+  keywords: "landscape design Cape Town, indigenous gardens South Africa, Cape Town landscaping, garden design Constantia, Camps Bay landscaping",
 };
 
 export default function RootLayout({
